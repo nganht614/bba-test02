@@ -25,7 +25,8 @@
 ---
 
 **JavaScript**
-**1. Cấu điều kiện:**
+
+**1. Câu điều kiện:**
 - Dùng để kiểm tra 1 đoạn logic trước khi chạy. Nếu điều kiện đúng thì mới chạy.
 - **Cú pháp:** 
     `If (<điều kiện>){
