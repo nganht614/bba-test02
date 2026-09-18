@@ -36,6 +36,7 @@ VD: Kết hợp nhiều điều kiện:
       if (hour >= 6 && hour <= 11) {
         console.log("Xin chào");
       }`
+  
 **2. Vòng lặp:**
 - Dùng để lặp lại 1 đoạn logic. Có thể lặp lại 1 số lần nhất định hoặc lặp vô hạn, tùy theo điều kiện dừng.
 - Các loại vòng lặp: For(i), For(of), For(each), For(in), While, do..while
